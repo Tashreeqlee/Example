@@ -6,3 +6,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    text-align: center;
+    display: grey;
+}
+#copyTitle {
+    font-size: 2rem;
+    color: darkred;
+}
+/* header and footer*/
+header, footer {
+    background-image: linear-gradient(to right, black, yellow);
+}
